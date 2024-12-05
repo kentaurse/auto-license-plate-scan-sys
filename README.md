@@ -38,10 +38,3 @@
 4. **Integration**:
    - Smartphone pairing for internet access.
    - REST APIs for uploading data to the server.
-
-#### **Development Timeline**:
-1. Week 1–2: Hardware assembly, Raspberry Pi setup, and connectivity testing.
-2. Week 3–4: Camera configuration and testing for license plate captures.
-3. Week 5–6: Integrating OCR with image processing.
-4. Week 7–8: Developing and connecting to the database (MongoDB/MySQL).
-5. Week 9–10: Final testing and deployment.
